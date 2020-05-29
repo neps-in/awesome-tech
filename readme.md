@@ -4,4 +4,4 @@
 
 ### SVG Resources
 
-* [Collection of Absolutely free SVG](https://svgsilh.com/)
+* Collection of Absolutely free SVG [svgsilh.com](https://svgsilh.com/)
