@@ -4,8 +4,8 @@
 
 ### SVG Resources
 
-* Collection of Absolutely free SVG [svgsilh.com](https://svgsilh.com/)
+* [svgsilh.com](https://svgsilh.com/) Collection of Absolutely free SVG 
 
 ## Package Repositories
 
-* Find and use packages to build Dart↗ and Flutter↗ apps. [pub.dev](https://pub.dev/)
+* [pub.dev](https://pub.dev/) Find and use packages to build Dart↗ and Flutter↗ apps. 
