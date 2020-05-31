@@ -4,6 +4,7 @@
 
 ### SVG Resources
 
+* [blobs.app](https://blobs.app/) Create blob for your apps, website in SVG.
 * [svgsilh.com](https://svgsilh.com/) Collection of Absolutely free SVG 
 
 ## Package Repositories
