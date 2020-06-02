@@ -2,6 +2,8 @@
 
 ## Design Resources
 
+* [Use human like images](https://www.humaaans.com/)
+
 ### SVG Resources
 
 * [blobs.app](https://blobs.app/) Create blob for your apps, website in SVG.
