@@ -18,4 +18,8 @@
 
 * [cacert.pem from curl.haxx.se](https://curl.haxx.se/ca/cacert.pem) Click to download. [More info](https://curl.haxx.se/docs/caextract.html)
 
+# Linux Resources
+
+* [Linux Performance](http://www.brendangregg.com/linuxperf.html)
+
 
