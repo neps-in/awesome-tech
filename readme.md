@@ -15,7 +15,7 @@
 * [pub.dev](https://pub.dev/) Find and use packages to build Dart↗ and Flutter↗ apps. 
 
 ## Wordpress Resources
-[Wordpress Template Anatomy or X-Ray View](https://wphierarchy.com/)
+* [Wordpress Template Anatomy or X-Ray View](https://wphierarchy.com/)
 
 ## Dummy data or cert files
 
