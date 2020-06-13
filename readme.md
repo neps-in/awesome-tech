@@ -48,7 +48,8 @@
 
 ## Wordpress Plugin
 * [Woorank](https://www.woorank.com/en/p/pricing)
-* 
+* [Yoast](https://yoast.com/)
+* [RankMath](https://rankmath.com/)
 
 
 
