@@ -9,11 +9,11 @@ Installation failed: Download failed. Destination directory for file streaming d
 ```
 #### Solution
 
-##### Make `wp-content` folder writable
+#### Make `wp-content` folder writable
 
 1. Make sure you have right permission (make it writable) by the apache process for the folder `wp-content` otherwise give right permissions `sudo chmod -R 755 wp-content`
 
-##### Setup WP_TEMP_DIR for wordpress.
+#### Setup WP_TEMP_DIR for wordpress.
 2. Sometime it could be because of temp folder missing. Please add the following line in `wp-config.php`.
 
 Its good to give seperate directory inside wp-content like the following.
