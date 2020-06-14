@@ -1,5 +1,7 @@
 # Wordpress Resources
 
+Collection of very useful wordpress resource for wordpress developers.
+
 ## Cool Plugins that you can use
 
 * [Add widgets in the menu: wp-widget-in-navigation](https://wordpress.org/plugins/wp-widget-in-navigation/)
