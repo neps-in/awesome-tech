@@ -19,7 +19,7 @@
 rapidly building custom designs.
 ](https://tailwindcss.com)
 
-### Wordpress Resources
+### Wordpress Developer's Resources
 * [Wordpress Template Anatomy or X-Ray View](https://wphierarchy.com/)
 * [Wordpress template hierarchy in detail  ](https://developer.wordpress.org/themes/basics/template-hierarchy/#The_Template_Hierarchy_In_Detail)
 
@@ -57,6 +57,7 @@ rapidly building custom designs.
 * [Woorank](https://www.woorank.com/en/p/pricing)
 * [Yoast](https://yoast.com/)
 * [RankMath](https://rankmath.com/)
+
 
 
 
