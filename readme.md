@@ -22,7 +22,8 @@ rapidly building custom designs.
 ### Wordpress Resources
 * [Wordpress Template Anatomy or X-Ray View](https://wphierarchy.com/)
 * [Wordpress template hierarchy in detail  ](https://developer.wordpress.org/themes/basics/template-hierarchy/#The_Template_Hierarchy_In_Detail)
-## Dummy data or cert files
+
+### Dummy data or cert files
 
 * [cacert.pem from curl.haxx.se](https://curl.haxx.se/ca/cacert.pem) Click to download. [More info](https://curl.haxx.se/docs/caextract.html)
 
