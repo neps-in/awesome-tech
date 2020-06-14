@@ -1,4 +1,4 @@
-# Awesome Wordpress Bugs and their solutions 
+# Awesome popular Wordpress Bugs / errors and their solutions.
 
 ####  Plugin Installation failed 
 
