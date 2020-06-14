@@ -1,43 +1,42 @@
 # Awesome Collection of Programming, Design Resources
 
-## Design Resources
+### Design Resources
 
 * [Use human like images](https://www.humaaans.com/)
 
-## Frontend Engineering Resources
+#### SVG Resources
+
+* [blobs.app](https://blobs.app/) Create blob for your apps, website in SVG.
+* [svgsilh.com](https://svgsilh.com/) Collection of Absolutely free SVG 
+
+#### Package Repositories
+
+* [pub.dev](https://pub.dev/) Find and use packages to build Dart↗ and Flutter↗ apps.
+
+### Frontend Engineering Resources
 
 * [Tailwindcss - A utility-first CSS framework for
 rapidly building custom designs.
 ](https://tailwindcss.com)
 
-### SVG Resources
-
-* [blobs.app](https://blobs.app/) Create blob for your apps, website in SVG.
-
-* [svgsilh.com](https://svgsilh.com/) Collection of Absolutely free SVG 
-
-## Package Repositories
-
-* [pub.dev](https://pub.dev/) Find and use packages to build Dart↗ and Flutter↗ apps. 
-
-## Wordpress Resources
+### Wordpress Resources
 * [Wordpress Template Anatomy or X-Ray View](https://wphierarchy.com/)
 * [Wordpress template hierarchy in detail  ](https://developer.wordpress.org/themes/basics/template-hierarchy/#The_Template_Hierarchy_In_Detail)
 ## Dummy data or cert files
 
 * [cacert.pem from curl.haxx.se](https://curl.haxx.se/ca/cacert.pem) Click to download. [More info](https://curl.haxx.se/docs/caextract.html)
 
-## Linux Resources
+### Linux Resources
 
 * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 
-## Awesome Blogs
+### Awesome Blogs
 
 * [Dropbox Engineering Blog](https://dropbox.tech/)
 
-# Awesome Biz Development resources
+### Awesome Biz Development resources
 
-## Competitor Analysis Tools
+#### Competitor Analysis Tools
 
 * [wappalyzer.com](https://wappalyzer.com)
 * [BuiltWith.com](https://builtwith.com/)
@@ -52,7 +51,8 @@ rapidly building custom designs.
 * [Serpstat](https://serpstat.com/)
 * [Netpeak Checker](https://netpeaksoftware.com/checker)
 
-## Wordpress Plugin
+### Wordpress Plugin for SEO Analysis.
+
 * [Woorank](https://www.woorank.com/en/p/pricing)
 * [Yoast](https://yoast.com/)
 * [RankMath](https://rankmath.com/)
