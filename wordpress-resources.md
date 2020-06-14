@@ -2,7 +2,7 @@
 
 Collection of very useful wordpress resource for wordpress developers.
 
-## Cool Plugins that you can use
+### Cool Plugins that you can use
 
 * [Add widgets in the menu: wp-widget-in-navigation](https://wordpress.org/plugins/wp-widget-in-navigation/)
 * [To Create Responsive Menus: responsive-menu](https://wordpress.org/plugins/responsive-menu/)
