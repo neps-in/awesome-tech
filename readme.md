@@ -4,6 +4,12 @@
 
 * [Use human like images](https://www.humaaans.com/)
 
+## Frontend Engineering Resources
+
+* [Tailwindcss - A utility-first CSS framework for
+rapidly building custom designs.
+](https://tailwindcss.com)
+
 ### SVG Resources
 
 * [blobs.app](https://blobs.app/) Create blob for your apps, website in SVG.
