@@ -1,6 +1,6 @@
 # Awesome popular Wordpress Bugs / errors and their solutions.
 
-####  Plugin Installation failed 
+###  Plugin Installation failed 
 
 Everytime you want to install plugin from the wordpress dashboard you get this error.
 
