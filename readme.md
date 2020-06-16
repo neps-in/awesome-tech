@@ -19,6 +19,7 @@
 rapidly building custom designs.
 ](https://tailwindcss.com)
 * Free Frontend Resources [freefrontend.com](https://freefrontend.com)
+* Free RWD Bootstrap templates [UICookies.com](https://uicookies.com/)
 
 ### Wordpress Developer's Resources
 * [Wordpress Template Anatomy or X-Ray View](https://wphierarchy.com/)
