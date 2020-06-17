@@ -2,7 +2,7 @@
 
 ### Design Resources
 
-* Use human like images [Use human like images](https://www.humaaans.com/)
+* Use human like images [humaaans.com](https://www.humaaans.com/)
 
 #### SVG Resources
 
