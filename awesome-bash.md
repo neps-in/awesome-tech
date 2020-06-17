@@ -3,3 +3,7 @@
 ### To find zero length files in bash
 
 `find . -size 0`
+
+### To list files in the order by filesize
+
+`ls -lSr`
