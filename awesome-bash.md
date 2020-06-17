@@ -23,3 +23,16 @@ do
 done < "$input"
 ```
 
+# Curl
+
+* ` -I ` or `--head`  - To make head request for url.
+
+Fetch the HTTP-header only! HTTP-servers feature the command HEAD which this uses to get nothing but the header of a document. When used on a FTP or FILE file, curl  displays the file size and last modification time only
+
+*  ` -L ` or `--location` - To follow redirect. 
+
+*  `-I` or `--silent` - To avoid lots of output, this displays just the critical output.
+
+
+
+
