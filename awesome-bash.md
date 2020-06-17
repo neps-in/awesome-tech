@@ -11,3 +11,15 @@
 ### echo without newline
 
 `echo -n 'whatever you want'`
+
+### read line by line in a file in bash shell script
+
+```
+#!/bin/bash
+input="/path/to/txt/file"
+while IFS= read -r line
+do
+  echo "$line"
+done < "$input"
+```
+
