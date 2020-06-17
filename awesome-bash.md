@@ -7,3 +7,7 @@
 ### To list files in the order by filesize
 
 `ls -lSr`
+
+### echo without newline
+
+`echo -n 'whatever you want'`
