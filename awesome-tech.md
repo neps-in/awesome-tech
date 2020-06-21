@@ -59,3 +59,7 @@ rapidly building custom designs.
 * [Woorank](https://www.woorank.com/en/p/pricing)
 * [Yoast](https://yoast.com/)
 * [RankMath](https://rankmath.com/)
+
+### Tech Resources
+
+* [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
