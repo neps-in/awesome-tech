@@ -5,6 +5,16 @@
 ![Nice looking paragraphs and its CSS](img/nice-para-nice-block.png)
 
 ```
+h2, .blog .h2, .guide .h2 {
+    font-size: 34px;
+    color: #0f67ea;
+    font-family: "ProximaNova-Semibold";
+    line-height: 40px;
+    font-style: normal;
+    font-weight: normal;
+    margin: 0 0 36px;
+}
+
 p {
     font-size: 18px;
     font-family: 'ProximaNova-Regular';
