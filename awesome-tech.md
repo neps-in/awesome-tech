@@ -21,6 +21,11 @@ rapidly building custom designs.
 * Free Frontend Resources [freefrontend.com](https://freefrontend.com)
 * Free RWD Bootstrap templates [UICookies.com](https://uicookies.com/)
 
+### JavaScript Resources
+
+* [Parsley, the ultimate JavaScript form validation library
+](https://parsleyjs.org/)
+
 ### Wordpress Developer's Resources
 * [Wordpress Template Anatomy or X-Ray View](https://wphierarchy.com/)
 * [Wordpress template hierarchy in detail  ](https://developer.wordpress.org/themes/basics/template-hierarchy/#The_Template_Hierarchy_In_Detail)
