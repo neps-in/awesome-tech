@@ -36,6 +36,12 @@ rapidly building custom designs.
 
 ## Serverside Tech
 
+### Awesome Python Flask
+
+* [Awesome Flask related libs, packages list](https://awesomeopensource.com/projects/flask)
+
+### Awesome PHP Laravel 
+
 * [Livewire](https://laravel-livewire.com/)
 
 ### Linux Resources
