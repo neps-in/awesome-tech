@@ -56,6 +56,7 @@ rapidly building custom designs.
 
 #### Competitor Analysis Tools
 
+* [Keywords Everywhere](https://keywordseverywhere.com/)
 * [wappalyzer.com](https://wappalyzer.com)
 * [BuiltWith.com](https://builtwith.com/)
 * [Google Adwords Keyword Planner](https://adwords.google.com/home/resources/using-google-adwords-keyword-planner.html#?modal_active=none)
