@@ -2,7 +2,8 @@
 
 ## Design Resources
 
-* Use human like images [humaaans.com](https://www.humaaans.com/)
+* [Use human like images humaaans.com](https://www.humaaans.com/)
+* [Usability Post](https://usabilitypost.com/)
 
 #### SVG Resources
 
@@ -18,8 +19,8 @@
 * [Tailwindcss - A utility-first CSS framework for
 rapidly building custom designs.
 ](https://tailwindcss.com)
-* Free Frontend Resources [freefrontend.com](https://freefrontend.com)
-* Free RWD Bootstrap templates [UICookies.com](https://uicookies.com/)
+* [Free Frontend Resources - freefrontend.com](https://freefrontend.com)
+* [Free RWD Bootstrap templates - UICookies.com](https://uicookies.com/)
 
 ### JavaScript Resources
 
