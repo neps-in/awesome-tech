@@ -1,6 +1,6 @@
 # Awesome Collection of Programming, Design Resources
 
-### Design Resources
+## Design Resources
 
 * Use human like images [humaaans.com](https://www.humaaans.com/)
 
@@ -26,19 +26,15 @@ rapidly building custom designs.
 * [Parsley, the ultimate JavaScript form validation library
 ](https://parsleyjs.org/)
 
-### Wordpress Developer's Resources
-* [Wordpress Template Anatomy or X-Ray View](https://wphierarchy.com/)
-* [Wordpress template hierarchy in detail  ](https://developer.wordpress.org/themes/basics/template-hierarchy/#The_Template_Hierarchy_In_Detail)
-
-### Dummy data or cert files
-
-* [cacert.pem from curl.haxx.se](https://curl.haxx.se/ca/cacert.pem) Click to download. [More info](https://curl.haxx.se/docs/caextract.html)
-
 ## Serverside Tech
 
 ### Awesome Python Flask
 
 * [Awesome Flask related libs, packages list](https://awesomeopensource.com/projects/flask)
+
+### Wordpress Developer's Resources
+* [Wordpress Template Anatomy or X-Ray View](https://wphierarchy.com/)
+* [Wordpress template hierarchy in detail  ](https://developer.wordpress.org/themes/basics/template-hierarchy/#The_Template_Hierarchy_In_Detail)
 
 ### Awesome PHP Laravel 
 
@@ -48,11 +44,15 @@ rapidly building custom designs.
 
 * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 
-### Awesome Blogs
+### Dummy data or cert files
+
+* [cacert.pem from curl.haxx.se](https://curl.haxx.se/ca/cacert.pem) Click to download. [More info](https://curl.haxx.se/docs/caextract.html)
+
+## Awesome Tech Blogs
 
 * [Dropbox Engineering Blog](https://dropbox.tech/)
 
-### Awesome Biz Development resources
+## Awesome Biz Development resources
 
 #### Competitor Analysis Tools
 
@@ -76,10 +76,10 @@ rapidly building custom designs.
 * [Yoast](https://yoast.com/)
 * [RankMath](https://rankmath.com/)
 
-### Tech Resources
+## Classics, Subjects
 
 * [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
 
-### AI, Machine Learning, Deep Learning
+## AI, Machine Learning, Deep Learning
 
 *  [PyTorch.org](https://pytorch.org/)
