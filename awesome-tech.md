@@ -79,3 +79,7 @@ rapidly building custom designs.
 ### Tech Resources
 
 * [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
+
+### AI, Machine Learning, Deep Learning
+
+*  [PyTorch.org](https://pytorch.org/)
