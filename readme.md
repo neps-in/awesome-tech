@@ -11,7 +11,7 @@ This repository contains quite useful resources on the following topics
 * Quick and handy bash shell scripting snippets [awesome-bash.md](awesome-bash.md).
 * Nostalgia in Tech, Quite interesting[awesome-nostalgia-tech.md](awesome-nostalgia-tech.md)
 * Startups / Business / Economy / Finance [awesome-biz-startups.md](awesome-biz-startups.md)
-* Machine Learning resources [awesome-machine-learning.md]
+* Machine Learning resources [awesome-machine-learning.md](awesome-machine-learning.md)
 
 
 
