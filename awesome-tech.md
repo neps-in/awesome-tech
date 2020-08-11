@@ -17,7 +17,7 @@
 
 ## Serverside Tech
 
-### Asortted 
+### Assorted 
 
 * [JSON web token](https://jwt.io/)
 
