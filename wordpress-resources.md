@@ -85,31 +85,17 @@ https://developer.wordpress.org/reference/functions/add_post_meta/
 
 https://developer.wordpress.org/reference/functions/wp_insert_post/
 
-Woocommerce:
-Custom fields 
-https://www.ibenic.com/how-to-add-woocommerce-custom-product-fields/
+* [Woocommerce Custom fields](https://www.ibenic.com/how-to-add-woocommerce-custom-product-fields/)
 
-Wordpress Post Status
-https://codex.wordpress.org/Post_Status
+* [Wordpress Post Status](https://codex.wordpress.org/Post_Status)
+* [wp_nonce_field](https://codex.wordpress.org/Function_Reference/wp_nonce_field)
+* [__()](https://developer.wordpress.org/reference/functions/__/)
 
+### Wordpress official tuts
 
-Wordpress Docs Code ref
-wp_nonce_field
-https://codex.wordpress.org/Function_Reference/wp_nonce_field
-__() https://developer.wordpress.org/reference/functions/__/
-
-Wordpress official tuts
-========================
-
-Options 
-https://codex.wordpress.org/Creating_Options_Pages
-https://codex.wordpress.org/Data_Validation
-https://codex.wordpress.org/Writing_a_Plugin
-
-Adam Brown's hook DB:
-=====================
-http://adambrown.info/p/wp_hooks
-
-debugging plugin for wordpress:
-https://wordpress.org/plugins/search/debug/
+* [Creating Options page in Wordpress Admin](https://codex.wordpress.org/Creating_Options_Pages)
+* [Validation data in option page](https://codex.wordpress.org/Data_Validation)
+* [Writing a plugin](https://codex.wordpress.org/Writing_a_Plugin)
+* [Adam Brown's hook DB](http://adambrown.info/p/wp_hooks)
+* [debugging plugin for wordpress](https://wordpress.org/plugins/search/debug/)
 
