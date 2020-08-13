@@ -21,9 +21,13 @@
 
 * [JSON web token](https://jwt.io/)
 
-### Awesome Python Flask
+### Awesome Python 
+
+* [Python Style guide by Guido Van Rosum](https://www.python.org/dev/peps/pep-0008/)
 
 * [Awesome Flask related libs, packages list](https://awesomeopensource.com/projects/flask)
+
+
 
 ### Wordpress Developer's Resources
 * [Wordpress Template Anatomy or X-Ray View](https://wphierarchy.com/)
