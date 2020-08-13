@@ -24,6 +24,10 @@ done < "$input"
 ```
 
 # Curl
+```
+    curl [options] [URL...]
+```
+
 
 * ` -I ` or `--head`  - To make head request for url.
 
