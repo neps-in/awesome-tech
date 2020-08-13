@@ -24,6 +24,9 @@ done < "$input"
 ```
 
 # Curl
+
+Curl Syntax :
+
 ```
     curl [options] [URL...]
 ```
