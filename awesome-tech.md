@@ -27,7 +27,18 @@
 
 * [Awesome Flask related libs, packages list](https://awesomeopensource.com/projects/flask)
 
+### Python Style Guide / Python linters
 
+* Pylint 
+* PyChecker
+* Pep8 - Guido's Original style guide
+* Flakes8 - Integrate both pep8 and pyflakes
+
+### Editors and stuffs
+
+* [Emacs](https://www.gnu.org/software/emacs/)
+* [Org Mode for emacs - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
+](https://orgmode.org/)
 
 ### Wordpress Developer's Resources
 * [Wordpress Template Anatomy or X-Ray View](https://wphierarchy.com/)
@@ -48,6 +59,7 @@
 ## Awesome Tech Blogs
 
 * [Dropbox Engineering Blog](https://dropbox.tech/)
+* [Literate Programming](http://www.howardism.org/Technical/LP/introduction.html)
 
 ## Awesome Biz Development resources
 
