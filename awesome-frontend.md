@@ -6,7 +6,8 @@
 rapidly building custom designs [Tailwindcss](https://tailwindcss.com)
 * [Free Frontend Resources - freefrontend.com](https://freefrontend.com)
 * [Free RWD Bootstrap templates - UICookies.com](https://uicookies.com/)
-
+* [Free Image sources](https://unsplash.com/)
+* [Woocommerce ShortCodes](https://docs.woocommerce.com/document/shortcodes/)
 ### JavaScript Resources
 
 * [Parsley, the ultimate JavaScript form validation library
