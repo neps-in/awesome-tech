@@ -92,3 +92,7 @@
 ## AI, Machine Learning, Deep Learning
 
 *  [PyTorch.org](https://pytorch.org/)
+
+## Code snippet collections
+
+* [30 sec of code](https://www.30secondsofcode.org/)
