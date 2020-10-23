@@ -1,6 +1,7 @@
 # Readme
 
-This repository contains quite useful resources on the following topics
+This repository contains quite useful resources on the following topics. 
+Its in constant update, feel free to **Star** or **Watch** this repository, so that you get update notification as and when we update.
 
 * General Programming & Design resources [awesome-tech.md](awesome-tech.md).
 * Wordpress Developer's resources [wordpress-resources.md](wordpress-resources.md).

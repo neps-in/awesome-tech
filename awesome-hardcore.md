@@ -1,0 +1,4 @@
+# Hardcore Stuffs
+
+## DNS
+
