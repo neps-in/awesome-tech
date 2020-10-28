@@ -1,4 +1,4 @@
-# Awesome / Cool Frontend resources 
+# Frontend resources 
 
 ## Design Tool, Techniques, Resources
 
@@ -20,6 +20,9 @@ rapidly building custom designs [Tailwindcss](https://tailwindcss.com)
 * interaction design - Adobe after effects or principle, Invision, Marvel.
 * Interaction Design tool [principleformac.com](https://principleformac.com/)
 * FREE ICONS, PHOTOS, VECTORS, MUSIC, AND TOOLS [icons8.com](https://icons8.com/)
+* [Search GIFs you want](https://giphy.com/)
+* [Color Pallet collections - colorhunt ](https://colorhunt.co/palette/201676)
+* [Visme](https://visme.co)
 
 ## JavaScript Resources
 

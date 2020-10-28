@@ -1,11 +1,12 @@
 #!/bin/bash
 
 usage(){
-    echo "create-toc.sh outfilename.md"
+    echo "Usage: create-toc.sh outfilename.md"
 }
 
 if [ "$#" -ne 1 ]; then
     usage
+    exit
 fi
 
 outfile=$1
@@ -28,12 +29,16 @@ EOFFF
 
 while read -r line
 do
+    # Extract the first line of each file.
     fileheading=$(head -n 1 $line)
+    
     # Remove the leading pound symbol
     fileheading="${fileheading:1}"
+    
     echo "* [$fileheading]($line)" >> ${outfile}
 done < <(ls *.md)
 
+# Add credit 
 cat << EOFFF >> ${outfile}
 
 #### Note
