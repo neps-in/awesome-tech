@@ -96,3 +96,8 @@
 ## Code snippet collections
 
 * [30 sec of code](https://www.30secondsofcode.org/)
+
+## Automation
+
+* [Nodered Automation like IFTTT](https://nodered.org/)
+* [n8n Web Automation](https://n8n.io/register?)

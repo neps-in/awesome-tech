@@ -30,6 +30,10 @@ rapidly building custom designs [Tailwindcss](https://tailwindcss.com)
 ](https://parsleyjs.org/)
 * [Service Worker](https://developers.google.com/web/fundamentals/primers/service-workers)
 
+## All about Typography
+
+* [Typography](https://www.typography.com/webfonts)
+
 ## ReactJS
 
 * [Reactjs bootstrap](https://react-bootstrap.github.io/)

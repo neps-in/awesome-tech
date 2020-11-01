@@ -17,7 +17,7 @@ Its in constant update, feel free to **Star** or **Watch** this repository, so t
 * [ Awesome DevOps Resources](awesome-devops.md)
 * [ Awesome E-Commerce Platform](awesome-ecommerce-platforms.md)
 * [ Awesome Founders](awesome-founders-blog.md)
-* [ Awesome / Cool Frontend resources ](awesome-frontend.md)
+* [ Frontend resources ](awesome-frontend.md)
 * [ Hardcore Stuffs](awesome-hardcore.md)
 * [ Awesome Electronics, IOT, Robotics Resources](awesome-iot.md)
 * [ Awesome Machine Learning Resources](awesome-machine-learning.md)
@@ -28,6 +28,7 @@ Its in constant update, feel free to **Star** or **Watch** this repository, so t
 * [ Awesome Collection of Programming, Design Resources](awesome-tech.md)
 * [ Awful Bugs & their solutions](awful-bugs.md)
 * [ Awesome popular Wordpress Bugs / errors and their solutions.](awful-wordpress-bugs.md)
+* [ Marketing, Sales, Business Development resources](marketing-sales-bizdev.md)
 * [ Wordpress Resources](wordpress-resources.md)
 
 #### Note
