@@ -101,3 +101,12 @@
 
 * [Nodered Automation like IFTTT](https://nodered.org/)
 * [n8n Web Automation](https://n8n.io/register?)
+
+## IDE / Editors / IDE plugins
+
+* [EditorConfig: Keeps your code intentation consistent across editors, ide and platforms](https://editorconfig.org/)
+
+* [Mechanical Keyboard](https://typeplus.net/collections/all)
+* [Dev Terminal](https://www.clockworkpi.com/)
+* [Keychron Mechanical Keyboard](https://keychron.com)
+
