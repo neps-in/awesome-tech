@@ -1,4 +1,6 @@
-# Awesome Wordpress Plugins you should be atleast aware of 
+# Awesome Wordpress Plugins
+
+Awesome Wordpress Plugins you should be atleast aware of 
 
 * [WP Mail SMTP - for sending all email marketing list](https://wordpress.org/plugins/wp-mail-smtp/)
 * [Email Subscribers & Newsletters - For managing email subscribers (self hosted on my wp server](https://wordpress.org/plugins/email-subscribers/)
