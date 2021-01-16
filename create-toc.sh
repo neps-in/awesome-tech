@@ -1,28 +1,28 @@
 #!/bin/bash
 
-usage(){
-    echo "Usage: create-toc.sh outfilename.md"
-}
+#For xtrace / debugging
+#set -x
 
-if [ "$#" -ne 1 ]; then
-    usage
-    exit
-fi
 
-outfile=$1
+# if [ "$#" -ne 1 ]; then
+#     usage
+#     exit
+# fi
+
+outfile='readme.md'
 
 # Add preamble for the readme
-cat << EOFFF >> ${outfile}
-
+cat << INTRO > ${outfile}
 # Readme
 
 This repository contains quite useful resources on the following topics. 
 Its in constant update, feel free to **Star** or **Watch** this repository, so that you get update notification as and when we update.
 
-EOFFF
+INTRO
+
 
 # adding the content of banner to make readme nice
-cat banner.txt > $outfile
+cat banner.txt >> $outfile
 
 
 while read -r line
@@ -33,6 +33,7 @@ do
     # Remove the leading pound symbol
     fileheading="${fileheading:1}"
     
+
     echo "* [$fileheading]($line)" >> ${outfile}
 done < <(ls *.md)
 
