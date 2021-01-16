@@ -1,7 +1,7 @@
 # Readme
 
 This repository contains quite useful resources on the following topics. 
-Its in constant update, feel free to **Star** or **Watch** this repository, so that you get update notification as and when we update.
+Its in constant update, feel free to **Star** or **Watch** this repository, so that you get update notification as and when i add new stuffs.
 
 ``` _                                           _____         _
    / \__      _____  ___  ___  _ __ ___   ___  |_   _|__  ___| |__
