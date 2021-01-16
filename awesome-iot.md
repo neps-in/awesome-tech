@@ -1,4 +1,4 @@
-# Awesome Electronics, IOT, Robotics Resources
+# Electronics, IOT, Robotics Resources
 
 
 ### To buy boards & Electronic components in India

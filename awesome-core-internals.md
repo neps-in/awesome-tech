@@ -1,4 +1,4 @@
-# Awesome Computer Science Core Internals stuffs
+# Computer Science Core Internals stuffs
 
 
 * [What every programmer should know about memory](https://lwn.net/Articles/250967/)

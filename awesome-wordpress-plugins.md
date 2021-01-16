@@ -1,4 +1,4 @@
-# Awesome Wordpress Plugins
+# Wordpress Plugins
 
 Awesome Wordpress Plugins you should be atleast aware of 
 

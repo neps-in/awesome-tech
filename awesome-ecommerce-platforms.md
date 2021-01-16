@@ -1,4 +1,4 @@
-# Awesome E-Commerce Platform
+# E-Commerce Platform
 
 ## PHP
 * Woocommerce Plugin for wordpress
