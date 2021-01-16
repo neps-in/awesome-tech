@@ -26,9 +26,11 @@ Its in constant update, feel free to **Star** or **Watch** this repository, so t
 * [ Awesome RFC - Collection of great RFC that shaped the internet.](awesome-rfc.md)
 * [ Awesome Responsive Web Design Tricks](awesome-rwd.md)
 * [ Awesome Collection of Programming, Design Resources](awesome-tech.md)
+* [ Awesome Wordpress Plugins you should be atleast aware of ](awesome-wordpress-plugins.md)
 * [ Awful Bugs & their solutions](awful-bugs.md)
 * [ Awesome popular Wordpress Bugs / errors and their solutions.](awful-wordpress-bugs.md)
 * [ Marketing, Sales, Business Development resources](marketing-sales-bizdev.md)
+* [`` _                                           _____         _](readme.md)
 * [ Wordpress Resources](wordpress-resources.md)
 
 #### Note
