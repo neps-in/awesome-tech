@@ -26,6 +26,7 @@ rapidly building custom designs [Tailwindcss](https://tailwindcss.com)
 
 ## JavaScript Resources
 
+* [JavaScript.info](https://javascript.info/)
 * [Parsley, the ultimate JavaScript form validation library
 ](https://parsleyjs.org/)
 * [Service Worker](https://developers.google.com/web/fundamentals/primers/service-workers)
