@@ -11,12 +11,6 @@ fi
 
 outfile=$1
 
-# Adding README first line
-echo "# README " > $outfile
-
-# adding the content of banner to make readme nice
-cat banner.txt > $outfile
-
 # Add preamble for the readme
 cat << EOFFF >> ${outfile}
 
@@ -26,6 +20,10 @@ This repository contains quite useful resources on the following topics.
 Its in constant update, feel free to **Star** or **Watch** this repository, so that you get update notification as and when we update.
 
 EOFFF
+
+# adding the content of banner to make readme nice
+cat banner.txt > $outfile
+
 
 while read -r line
 do

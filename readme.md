@@ -30,7 +30,6 @@ Its in constant update, feel free to **Star** or **Watch** this repository, so t
 * [ Awful Bugs & their solutions](awful-bugs.md)
 * [ Awesome popular Wordpress Bugs / errors and their solutions.](awful-wordpress-bugs.md)
 * [ Marketing, Sales, Business Development resources](marketing-sales-bizdev.md)
-* [`` _                                           _____         _](readme.md)
 * [ Wordpress Resources](wordpress-resources.md)
 
 #### Note
