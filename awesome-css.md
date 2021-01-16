@@ -1,4 +1,4 @@
-# Awesome CSS
+# CSS
 
 ## CSS Preprocessors
 

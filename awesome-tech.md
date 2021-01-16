@@ -1,4 +1,4 @@
-# Awesome Collection of Programming, Design Resources
+# Collection of Programming, Design Resources
 
 ## Design Resources
 
