@@ -9,7 +9,6 @@ Its in constant update, feel free to **Star** or **Watch** this repository, so t
  / ___ \ V  V /  __/\__ \ (_) | | | | | |  __/   | |  __/ (__| | | |
 /_/   \_\_/\_/ \___||___/\___/|_| |_| |_|\___|   |_|\___|\___|_| |_|
 ```
-
 * [ Collection of Handy bash snippets](awesome-bash.md)
 * [ Startups / Business / Economy / Finance  ](awesome-biz-startups.md)
 * [ Computer Science Core Internals stuffs](awesome-core-internals.md)
@@ -22,13 +21,13 @@ Its in constant update, feel free to **Star** or **Watch** this repository, so t
 * [ Electronics, IOT, Robotics Resources](awesome-iot.md)
 * [ Machine Learning Resources](awesome-machine-learning.md)
 * [ Nostalgia in Tech](awesome-nostalgia-tech.md)
-* [ Python](awesome-python.md)
-* [ RFC - Collection of great RFC that shaped the internet.](awesome-rfc.md)
-* [ Responsive Web Design Tricks](awesome-rwd.md)
+* [ Awesome Python](awesome-python.md)
+* [ Awesome RFC - Collection of great RFC that shaped the internet.](awesome-rfc.md)
+* [ Awesome Responsive Web Design Tricks](awesome-rwd.md)
 * [ Collection of Programming, Design Resources](awesome-tech.md)
+* [ Awesome popular Wordpress Bugs / errors and their solutions.](awesome-wordpress-bugs.md)
 * [ Wordpress Plugins](awesome-wordpress-plugins.md)
-* [ Awful Bugs & their solutions](awful-bugs.md)
-* [ {opular Wordpress Bugs / errors and their solutions.](awful-wordpress-bugs.md)
+* [ Awful Bugs & their solutions](awsome-bugs.md)
 * [ Marketing, Sales, Business Development resources](marketing-sales-bizdev.md)
 * [ Readme](readme.md)
 * [ Wordpress Resources](wordpress-resources.md)
