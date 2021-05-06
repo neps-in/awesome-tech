@@ -44,6 +44,11 @@
 * [Wordpress Template Anatomy or X-Ray View](https://wphierarchy.com/)
 * [Wordpress template hierarchy in detail  ](https://developer.wordpress.org/themes/basics/template-hierarchy/#The_Template_Hierarchy_In_Detail)
 
+### Awesome Distributed System
+
+* [gRPC](https://grpc.io/)
+* 
+
 ### Awesome PHP Laravel 
 
 * [Livewire](https://laravel-livewire.com/)
@@ -60,6 +65,11 @@
 
 * [Dropbox Engineering Blog](https://dropbox.tech/)
 * [Literate Programming](http://www.howardism.org/Technical/LP/introduction.html)
+* [Nate - about API, RPC, GraphQL](https://recaffeinate.co/about/)
+* [YT: les hazlewood rest api design]
+* [YT: eric baer on graphql]
+* [phil stugeon on API Design, RPC, GraphQL](https://phil.tech/)
+
 
 ## Awesome Biz Development resources
 
