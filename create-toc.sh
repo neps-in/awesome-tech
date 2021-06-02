@@ -23,10 +23,13 @@ You may fork this repo and you can add your own awesome tools, techs that you fi
 
 INTRO
 
-cat contributing-guide.md >> $outfile
-
 # adding the content of banner to make readme nice
 cat banner.txt >> $outfile
+
+
+cat contributing-guide.md >> $outfile
+
+
 
 
 while read -r line

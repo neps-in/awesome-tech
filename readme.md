@@ -6,6 +6,12 @@ Its in constant update, feel free to **Star** or **Watch** this repository, so t
 
 You may fork this repo and you can add your own awesome tools, techs that you find useful, and you can submit pull request
 
+``` _                                           _____         _
+   / \__      _____  ___  ___  _ __ ___   ___  |_   _|__  ___| |__
+  / _ \ \ /\ / / _ \/ __|/ _ \| '_ ` _ \ / _ \   | |/ _ \/ __| '_ \
+ / ___ \ V  V /  __/\__ \ (_) | | | | | |  __/   | |  __/ (__| | | |
+/_/   \_\_/\_/ \___||___/\___/|_| |_| |_|\___|   |_|\___|\___|_| |_|
+```
 # Contributing Guides
 
 Fork this repo, and add any tools, or tech stuffs that you find useful to the related files or topics, feel free to add new topics, new topics are to be added in a seperate file.
@@ -32,12 +38,6 @@ Lets together make it a huge collection.
 `./create-toc.sh`
 
 
-``` _                                           _____         _
-   / \__      _____  ___  ___  _ __ ___   ___  |_   _|__  ___| |__
-  / _ \ \ /\ / / _ \/ __|/ _ \| '_ ` _ \ / _ \   | |/ _ \/ __| '_ \
- / ___ \ V  V /  __/\__ \ (_) | | | | | |  __/   | |  __/ (__| | | |
-/_/   \_\_/\_/ \___||___/\___/|_| |_| |_|\___|   |_|\___|\___|_| |_|
-```
 * [ Awesome API based development tools](awesome-api.md)
 * [ Collection of Handy bash snippets](awesome-bash.md)
 * [ Startups / Business / Economy / Finance  ](awesome-biz-startups.md)
