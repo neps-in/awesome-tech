@@ -13,13 +13,17 @@ outfile='readme.md'
 
 # Add preamble for the readme
 cat << INTRO > ${outfile}
+
 # Readme
 
 This repository contains quite useful resources on the following topics. 
 Its in constant update, feel free to **Star** or **Watch** this repository, so that you get update notification as and when we update.
 
+You may fork this repo and you can add your own awesome tools, techs that you find useful, and you can submit pull request
+
 INTRO
 
+cat contributing-guide.md >> $outfile
 
 # adding the content of banner to make readme nice
 cat banner.txt >> $outfile

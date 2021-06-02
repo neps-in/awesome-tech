@@ -1,7 +1,36 @@
+
 # Readme
 
 This repository contains quite useful resources on the following topics. 
 Its in constant update, feel free to **Star** or **Watch** this repository, so that you get update notification as and when we update.
+
+You may fork this repo and you can add your own awesome tools, techs that you find useful, and you can submit pull request
+
+# Contributing Guides
+
+Fork this repo, and add any tools, or tech stuffs that you find useful to the related files or topics, feel free to add new topics, new topics are to be added in a seperate file.
+
+All topics should have a first line as `# Topic name`, This is the heading that will be placed in the Readme file when you generate the readme.md using create-toc.sh
+
+For eg
+awesome-angular.md file should have in the first line,  
+
+```
+# Awesome Angular tools and resources
+```
+
+Everytime you create a new topics or files you should generate the table of content by executing `./create-toc.sh`
+
+Now readme.md will be newly created, and dont forget to add and commit that to the repo.
+
+Thank You !!
+
+Lets together make it a huge collection.
+
+#### Usage 
+
+`./create-toc.sh`
+
 
 ``` _                                           _____         _
    / \__      _____  ___  ___  _ __ ___   ___  |_   _|__  ___| |__
@@ -34,8 +63,9 @@ Its in constant update, feel free to **Star** or **Watch** this repository, so t
 * [ Awesome popular Wordpress Bugs / errors and their solutions.](awesome-wordpress-bugs.md)
 * [ Wordpress Plugins](awesome-wordpress-plugins.md)
 * [ Awful Bugs & their solutions](awsome-bugs.md)
+* [ Contributing Guides](contributing-guide.md)
 * [ Marketing, Sales, Business Development resources](marketing-sales-bizdev.md)
-* [ Readme](readme.md)
+* [](readme.md)
 * [ Wordpress Resources](wordpress-resources.md)
 
 #### Note
