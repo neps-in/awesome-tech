@@ -9,7 +9,8 @@ rapidly building custom designs [Tailwindcss](https://tailwindcss.com)
 * [Free RWD Bootstrap templates - UICookies.com](https://uicookies.com/)
 * [Free Image sources](https://unsplash.com/)
 * [Woocommerce ShortCodes](https://docs.woocommerce.com/document/shortcodes/)
-* 
+* [styleguides.io](http://styleguides.io/)
+* [https://storybook.js.org/](https://storybook.js.org/)
 
 ## Awesome Product Design Tools
 
