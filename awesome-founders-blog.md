@@ -1,4 +1,4 @@
-# Founders
+# Awesome Founder's Blogs
 
 Collection of blogs of founders of great companies.
 
