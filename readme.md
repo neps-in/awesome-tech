@@ -43,6 +43,7 @@ Lets together make it a huge collection.
 * [ Startups / Business / Economy / Finance  ](awesome-biz-startups.md)
 * [ Computer Science Core Internals stuffs](awesome-core-internals.md)
 * [ CSS](awesome-css.md)
+* [ Awesome Flavours of Databases Structured or Relational, Un Structured, In Memory](awesome-databases.md)
 * [ DevOps Resources](awesome-devops.md)
 * [ Awesome Distributed Systems](awesome-distributed-systems.md)
 * [ E-Commerce Platform](awesome-ecommerce-platforms.md)
