@@ -25,12 +25,19 @@ rapidly building custom designs [Tailwindcss](https://tailwindcss.com)
 * [Color Pallet collections - colorhunt ](https://colorhunt.co/palette/201676)
 * [Visme](https://visme.co)
 
+## JavaScript Frameworks / Libraries
+
+* [Svelte: Cybernetically enhanced web apps](https://svelte.dev/)
+* [Build React Component, React Websites, without Coding](https://nebohq.com/)
+
 ## JavaScript Resources
 
 * [JavaScript.info](https://javascript.info/)
 * [Parsley, the ultimate JavaScript form validation library
 ](https://parsleyjs.org/)
 * [Service Worker](https://developers.google.com/web/fundamentals/primers/service-workers)
+* [Htmx](https://htmx.org/)
+* 
 
 ## All about Typography
 
