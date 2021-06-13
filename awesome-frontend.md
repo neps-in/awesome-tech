@@ -57,6 +57,3 @@ rapidly building custom designs [Tailwindcss](https://tailwindcss.com)
 ## All about Typography
 
 * [Typography](https://www.typography.com/webfonts)
-
-## ReactJS
-
