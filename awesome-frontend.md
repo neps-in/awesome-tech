@@ -12,6 +12,9 @@
 * [http://react-toolbox.io/](http://react-toolbox.io/)
 * [https://rsuitejs.com/](https://rsuitejs.com/)
 * [https://rsuitejs.com/](https://rsuitejs.com/)
+* [Lerna: A tool for managing JavaScript projects with multiple packages.](https://www.npmjs.com/package/lerna)
+* [Google Developer Blog](https://developers.google.com/web/)
+* [Ag Grid](https://www.ag-grid.com/)
 
 
 ## Design Tool, Techniques, Resources
@@ -27,9 +30,15 @@ rapidly building custom designs [Tailwindcss](https://tailwindcss.com)
 * [https://storybook.js.org/](https://storybook.js.org/)
 * [Storyset: Awesome illustrations for your next project](https://storyset.com/)
 
+
+## Figma
+
+* [Figma Free Resources](https://www.nordstrom.com/)
+
+
 ## Awesome Product Design Tools
 
-* Figma
+* [Figma: the collaborative interface design tool.](https://www.figma.com/)
 * Sketch
 * Adobe Photoshop
 * Adobe Illustrator
@@ -39,6 +48,7 @@ rapidly building custom designs [Tailwindcss](https://tailwindcss.com)
 * [Search GIFs you want](https://giphy.com/)
 * [Color Pallet collections - colorhunt ](https://colorhunt.co/palette/201676)
 * [Visme](https://visme.co)
+* [htmx: high power tools for HTML](https://htmx.org/)
 
 ## JavaScript Frameworks / Libraries
 
@@ -51,9 +61,11 @@ rapidly building custom designs [Tailwindcss](https://tailwindcss.com)
 * [Parsley, the ultimate JavaScript form validation library
 ](https://parsleyjs.org/)
 * [Service Worker](https://developers.google.com/web/fundamentals/primers/service-workers)
-* [Htmx](https://htmx.org/)
-* 
 
 ## All about Typography
 
 * [Typography](https://www.typography.com/webfonts)
+
+## Email 
+
+* [https://mjml.io/](https://mjml.io/)
