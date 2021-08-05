@@ -60,7 +60,7 @@ Lets together make it a huge collection.
 * [ Machine Learning Resources](awesome-machine-learning.md)
 * [ Nostalgia in Tech](awesome-nostalgia-tech.md)
 * [ Python](awesome-python.md)
-* [## **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)](awesome-react.md)
+* [ Awesome React resources](awesome-react.md)
 * [ Awesome RFC(s) - Collection of great RFC that shaped the internet.](awesome-rfc.md)
 * [ Awesome Responsive Web Design Tricks](awesome-rwd.md)
 * [ Awesome Security](awesome-security.md)
