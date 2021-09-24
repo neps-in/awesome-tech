@@ -6,6 +6,11 @@
 * [PyTables: PyTables is a package for managing hierarchical datasets and designed to efficiently and easily cope with extremely large amounts of data. You can download ...
 ](https://www.pytables.org/)
 
+# Import PEP (Python enhancement Proposals)
+
+* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+* [PEP 318 - - Decorators for Functions and Methods](https: // www.python.org/dev/peps/pep-0318/)
+
 
 # Web Application Frameworks in Python
 
@@ -15,7 +20,14 @@
 * [Starlette](https://www.starlette.io/)
 * [Django: Framework to build better Web apps more quickly and with less code.
 ](https://www.djangoproject.com/)
-  
+
+
+# Python's Iconic's feature - Decorators
+
+* [Fantastic 2.30 min video on Python Decorator with exercies](https: // www.youtube.com/watch?v=VWZAh1QrqRE)
+* [PEP 318 - - Decorators for Functions and Methods](https: // www.python.org/dev/peps/pep-0318/)
+* [Slides and Tutorial of this talk](https: // github.com/gahjelle/decorators_tutorial)
+
 # Django
 
 * [Django: Framework to build better Web apps more quickly and with less code.
